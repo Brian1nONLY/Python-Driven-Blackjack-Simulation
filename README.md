@@ -1,4 +1,4 @@
-# BlackJack-Game
+# Python-Driven Blackjack Simulation
 BlackJack Game in Python
 
 This game requires one player versus an automated dealer.
